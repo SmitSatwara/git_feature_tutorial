@@ -1,1 +1,1 @@
-feature1 commit 3
+conflict2
