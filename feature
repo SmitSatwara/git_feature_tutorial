@@ -1,1 +1,1 @@
-conflict2 master 
+conflict conflict branch
